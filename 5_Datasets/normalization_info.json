@@ -1,5 +1,5 @@
 {
-  "Methode": "MINMAX-Scaler",
+  "Methode": "STD-Scaler",
   "Normalisierte_Features": [
     "Jahr",
     "Monat",
@@ -7,7 +7,8 @@
     "Wochentag_Nr",
     "Temperatur",
     "Windgeschwindigkeit",
-    "Bewoelkung"
+    "Bewoelkung",
+    "Preisindex"
   ],
   "Original_Features": [
     "Jahr",
@@ -16,39 +17,12 @@
     "Wochentag_Nr",
     "Temperatur",
     "Windgeschwindigkeit",
-    "Bewoelkung"
-  ],
-  "Binaere_Features": [
-    "Warengruppe_Name",
-    "Warengruppe_Brot",
-    "Warengruppe_Brötchen",
-    "Warengruppe_Croissant",
-    "Warengruppe_Konditorei",
-    "Warengruppe_Kuchen",
-    "Warengruppe_Saisonbrot",
-    "Jahreszeit_Winter",
-    "Jahreszeit_Frühling",
-    "Jahreszeit_Sommer",
-    "Jahreszeit_Herbst",
-    "Wochentag_Nr",
-    "Wochentag_Nr",
-    "Wochentag_Nr",
-    "Wochentag_Nr",
-    "Wochentag_Monday",
-    "Wochentag_Tuesday",
-    "Wochentag_Wednesday",
-    "Wochentag_Thursday",
-    "Wochentag_Friday",
-    "Wochentag_Saturday",
-    "Wochentag_Sunday",
-    "Wochentag_Nr_normalized"
-  ],
-  "Entfernte_Features": [
-    "ist_sonntag"
+    "Bewoelkung",
+    "Preisindex"
   ],
   "Dataset_Shape": [
     9334,
-    37
+    21
   ],
-  "Empfehlung": "Verwende MINMAX-Scaler für optimale NN-Performance"
+  "Empfehlung": "Verwende STD-Scaler für optimale NN-Performance"
 }
