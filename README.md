@@ -33,5 +33,4 @@ Regression
 6.  [**Presentation**](4_Presentation/README.md)
 
 ## Cover Image
-
-![](CoverImage/cover_image.png)
+![alt text](grafik-1.png)
