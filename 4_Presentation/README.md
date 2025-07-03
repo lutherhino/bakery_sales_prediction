@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](name_of_your_file_including_the_presentation_slides)**
+**[Slides](/workspaces/bakery_sales_prediction/4_Presentation/Open_campus_Bakery_sales_project.pdf)**
