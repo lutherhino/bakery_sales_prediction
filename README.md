@@ -34,7 +34,7 @@ The improved linear model significantly outperformed both the baseline approache
 1.  [**Data Import and Preparation**](0_DataPreparation/)
 3.  [**Dataset Characteristics (Barcharts)**](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)
 4.  [**Baseline Model**](2_BaselineModel/prediction_linear_regression_baseline.csv)
-5.  [**Model Definition and Evaluation**](3_Model/linearRegression_advanced.ipynb)
+5.  [**Model Definition and Evaluation**](3_Model)
 6.  [**Presentation**](4_Presentation/README.md)
 
 ## Cover Image
