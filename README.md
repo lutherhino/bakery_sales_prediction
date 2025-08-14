@@ -2,7 +2,7 @@
 Benedikt Luther
 ## Repository Link
 
-https://github.com/lutherhino/bakery_sales_prediction
+https://github.com/lutherhino/bakery_sales_prediction.git
 
 ## Description
 
